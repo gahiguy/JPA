@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [20/Apr/2016:14:17:38 +0200] "GET /rest/hello HTTP/1.1" 200 30 http-bio-8080-exec-1 801
+0:0:0:0:0:0:0:1 - - [20/Apr/2016:14:17:41 +0200] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 244
+0:0:0:0:0:0:0:1 - - [20/Apr/2016:15:24:24 +0200] "GET /rest/hello HTTP/1.1" 200 30 http-bio-8080-exec-5 4019
+0:0:0:0:0:0:0:1 - - [20/Apr/2016:15:32:12 +0200] "GET /rest/hello/home HTTP/1.1" 500 1039 http-bio-8080-exec-10 5222
+0:0:0:0:0:0:0:1 - - [20/Apr/2016:15:35:58 +0200] "GET /rest/hello/home HTTP/1.1" 200 35 http-bio-8080-exec-1 202
+0:0:0:0:0:0:0:1 - - [20/Apr/2016:16:00:35 +0200] "GET /rest/hello/home HTTP/1.1" 200 35 http-bio-8080-exec-4 493
+0:0:0:0:0:0:0:1 - - [20/Apr/2016:16:06:48 +0200] "GET /rest/hello HTTP/1.1" 200 30 http-bio-8080-exec-6 1204
+0:0:0:0:0:0:0:1 - - [20/Apr/2016:16:22:50 +0200] "GET /rest/hello/home HTTP/1.1" 200 35 http-bio-8080-exec-9 174
+0:0:0:0:0:0:0:1 - - [20/Apr/2016:16:24:22 +0200] "GET /rest/hello HTTP/1.1" 200 30 http-bio-8080-exec-1 72

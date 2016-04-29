@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [20/Feb/2016:15:28:36 +0100] "GET /rest/hello/home HTTP/1.1" 500 - http-bio-8080-exec-1 184
+0:0:0:0:0:0:0:1 - - [20/Feb/2016:15:28:37 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-2 14
+0:0:0:0:0:0:0:1 - - [20/Feb/2016:15:31:36 +0100] "GET /rest/hello/home HTTP/1.1" 500 - http-bio-8080-exec-1 147
+0:0:0:0:0:0:0:1 - - [20/Feb/2016:15:38:54 +0100] "GET /rest/hello/home HTTP/1.1" 500 1039 http-bio-8080-exec-1 135
